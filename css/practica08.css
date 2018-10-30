@@ -9,6 +9,14 @@ h1{
 h2{
     color:brown;
 }
-li{
+.lista1 li,.lista2 li{
     color:chocolate;
 }
+.lista3 ol li ol li{
+    color:chocolate;
+}
+.lista3 ul li ul li{
+    color:chocolate;
+}
+
+
